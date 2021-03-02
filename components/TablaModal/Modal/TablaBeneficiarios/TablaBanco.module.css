@@ -1,0 +1,14 @@
+.DataCuentasBancarias span{
+    border: black 1px solid;
+}
+.spanDoble{
+    grid-column: 2/-1;
+}
+.DataCuentasBancarias{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.CamposDeTexto{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
